@@ -10,6 +10,6 @@ lorem ipsum
 ![JQuery](https://img.shields.io/badge/JQuery-%629cfc.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=sql&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MYSQL-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Docker](https://img.shields.io/badge/Docker-%23117AC9.svg?style=for-the-badge&logo=Docker&logoColor=white)
