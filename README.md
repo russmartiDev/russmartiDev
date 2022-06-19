@@ -1,6 +1,5 @@
 # Hello there 👋
-
-lorem ipsum
+I'm a programmer specialize in web development who's very passionate about coding and technology.
 
 ## ✨ My Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
